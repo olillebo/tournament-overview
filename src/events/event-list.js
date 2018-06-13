@@ -34,7 +34,7 @@ class EventList extends Component {
                         homeTeam: "Egypt",
                         awayTeam: "Uruguay",
                         kambiID: 1004378743,
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Morocco",
@@ -47,7 +47,7 @@ class EventList extends Component {
                         homeTeam: "Portugal",
                         awayTeam: "Spain",
                         kambiID: 1004378735,
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -58,23 +58,23 @@ class EventList extends Component {
                     {
                         homeTeam: "France",
                         awayTeam: "Australia",
-                        time: "17:00"
+                        time: "12:00"
                     },
                     {
                         featured: true,
                         homeTeam: "Argentina",
                         awayTeam: "Iceland",
-                        time: "17:00"
+                        time: "15:00"
                     },
                     {
                         homeTeam: "Peru",
                         awayTeam: "Denmark",
-                        time: "17:00"
+                        time: "18:00"
                     },
                     {
                         homeTeam: "Croatia",
                         awayTeam: "Nigeria",
-                        time: "17:00"
+                        time: "21:00"
                     }
                 ]
             },
@@ -85,7 +85,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Costa Rica",
                         awayTeam: "Serbia",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         featured: true,
@@ -96,7 +96,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Brazil",
                         awayTeam: "Switzerland",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -108,7 +108,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Sweden",
                         awayTeam: "Korea Republic",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Belgium",
@@ -118,7 +118,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Tunisia",
                         awayTeam: "England",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -130,7 +130,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Colombia",
                         awayTeam: "Japan",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Poland",
@@ -140,7 +140,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Russia",
                         awayTeam: "Egypt",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -152,7 +152,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Portugal",
                         awayTeam: "Morocco",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Uruguay",
@@ -162,7 +162,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Iran",
                         awayTeam: "Spain",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -173,7 +173,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Denmark",
                         awayTeam: "Australia",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "France",
@@ -184,7 +184,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Argentina",
                         awayTeam: "Croatia",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -196,7 +196,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Brazil",
                         awayTeam: "Costa Rica",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Nigeria",
@@ -206,7 +206,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Serbia",
                         awayTeam: "Switzerland",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -217,7 +217,7 @@ class EventList extends Component {
                     {
                         homeTeam: "Belgium",
                         awayTeam: "Tunisia",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Korea Republic",
@@ -228,7 +228,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Germany",
                         awayTeam: "Sweden",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -239,7 +239,7 @@ class EventList extends Component {
                     {
                         homeTeam: "England",
                         awayTeam: "Panama",
-                        time: "17:00"
+                        time: "14:00"
                     },
                     {
                         homeTeam: "Japan",
@@ -250,7 +250,7 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Poland",
                         awayTeam: "Colombia",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -261,23 +261,23 @@ class EventList extends Component {
                     {
                         homeTeam: "Uruguay",
                         awayTeam: "Russia",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         homeTeam: "Saudi Arabia",
                         awayTeam: "Egypt",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         homeTeam: "Iran",
                         awayTeam: "Portugal",
-                        time: "17:00"
+                        time: "20:00"
                     },
                     {
                         featured: true,
                         homeTeam: "Spain",
                         awayTeam: "Morocco",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -289,23 +289,23 @@ class EventList extends Component {
                         featured: true,
                         homeTeam: "Denmark",
                         awayTeam: "France",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         homeTeam: "Australia",
                         awayTeam: "Peru",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         featured: true,
                         homeTeam: "Nigeria",
                         awayTeam: "Argentina",
-                        time: "17:00"
+                        time: "20:00"
                     },
                     {
                         homeTeam: "Iceland",
                         awayTeam: "Croatia",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -316,23 +316,23 @@ class EventList extends Component {
                     {
                         homeTeam: "Korea Republic",
                         awayTeam: "Germany",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         featured: true,
                         homeTeam: "Mexico",
                         awayTeam: "Sweden",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         homeTeam: "Serbia",
                         awayTeam: "Brazil",
-                        time: "17:00"
+                        time: "20:00"
                     },
                     {
                         homeTeam: "Switzerland",
                         awayTeam: "Costa Rica",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             },
@@ -343,24 +343,23 @@ class EventList extends Component {
                     {
                         homeTeam: "Japan",
                         awayTeam: "Poland",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         homeTeam: "Senegal",
                         awayTeam: "Colombia",
-                        time: "17:00"
+                        time: "16:00"
                     },
                     {
                         featured: true,
                         homeTeam: "England",
                         awayTeam: "Belgium",
-                        time: "17:00",
-                        time: "17:00"
+                        time: "20:00"
                     },
                     {
                         homeTeam: "Panama",
                         awayTeam: "Tunisia",
-                        time: "17:00"
+                        time: "20:00"
                     }
                 ]
             }
@@ -1976,15 +1975,16 @@ class EventList extends Component {
                                     {this.getCountryCode.call(this, event.homeTeam, 3)}
                                 </div>
                                 <div
-                                    className={[this.getCountryCode.call(this, event.homeTeam, 2), "flag-icon-squared flag flag-icon flag-icon"].join(' ')}>
+                                    className={[this.getCountryCode.call(this, event.homeTeam, 2), "flag flag-icon flag-icon"].join(' ')}>
                                 </div>
                             </div>
+                            <div className="spacing">-</div>
                             <div className="team">
                                 <div className="name">
                                     {this.getCountryCode.call(this, event.awayTeam, 3)}
                                 </div>
                                 <div
-                                    className={[this.getCountryCode.call(this, event.awayTeam, 2), "flag-icon-squared flag flag-icon flag-icon"].join(' ')}>
+                                    className={[this.getCountryCode.call(this, event.awayTeam, 2), "flag flag-icon flag-icon"].join(' ')}>
                                 </div>
                             </div>
                         </div>

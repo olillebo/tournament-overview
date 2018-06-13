@@ -24,7 +24,8 @@ body {
     #wrapper #events .element {
       display: inline-flex;
       height: 100%;
-      border-right: 1px solid rgba(0, 0, 0, 0.12); }
+      border-right: 1px solid rgba(0, 0, 0, 0.12);
+      padding-right: 4px; }
       #wrapper #events .element .date {
         padding: 8px 8px 8px 18px;
         text-align: center; }
@@ -46,13 +47,17 @@ body {
           transition: background 0s; }
         #wrapper #events .element #event.full {
           display: none; }
+        #wrapper #events .element #event .spacing {
+          width: 8px;
+          display: flex;
+          justify-content: center;
+          margin-top: -2px; }
         #wrapper #events .element #event .team {
-          text-align: center;
-          margin-right: 4px; }
+          text-align: center; }
           #wrapper #events .element #event .team .name {
             font-size: 12px; }
           #wrapper #events .element #event .team .flag-icon {
-            border-radius: 50%;
+            border-radius: 3px;
             margin-top: 2px;
             zoom: 1.8;
             position: relative; }

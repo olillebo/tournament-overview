@@ -6,26 +6,10 @@ body {
   font-size: 14px;
   font-weight: bold; }
 
-.header {
-  font-size: 16px;
-  color: rgba(0, 0, 0, 0.87);
-  padding: 4px; }
-
 #wrapper {
   display: flex;
+  flex-direction: column;
   width: 100%; }
-  #wrapper #more {
-    width: 55px;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 56px;
-    position: fixed;
-    right: 0; }
-    #wrapper #more i {
-      font-size: 22px;
-      transition: color 0.2s ease, background-color 0.2s ease, transform 0.3s ease; }
   #wrapper #events {
     display: flex;
     width: 100%;
@@ -41,8 +25,6 @@ body {
       display: inline-flex;
       height: 100%;
       border-right: 1px solid rgba(0, 0, 0, 0.12); }
-      #wrapper #events .element:last-child {
-        padding-right: 55px; }
       #wrapper #events .element .date {
         padding: 8px 8px 8px 18px;
         text-align: center; }
@@ -100,8 +82,54 @@ body {
         display: flex; }
       #wrapper.toggled #events .element .date {
         padding: 8px 0 8px 0px; }
-  #wrapper.toggled #more i {
-    -ms-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg); }
+  #wrapper.toggled #more-icon {
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg); }
+
+#more {
+  display: flex;
+  justify-content: center;
+  padding: 16px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #000; }
+  #more #more-icon {
+    -ms-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    padding: 0 4px; }
+    #more #more-icon path {
+      fill: #fd5c3c;
+      fill-rule: evenodd;
+      stroke-linejoin: round;
+      stroke-miterlimit: 1.41421; }
+
+.header {
+  font-size: 16px;
+  background: url(http://www.leovegas.com/static/sports-client/images/pattern@2x.1445bc71.png) 0 0 repeat, linear-gradient(90deg, #f58249, #fd5c3c);
+  padding: 8px 16px;
+  color: white;
+  justify-content: space-between;
+  display: flex; }
+  .header .nav {
+    margin-top: 2px;
+    display: flex;
+    align-items: center; }
+    .header .nav .arrow-icon path {
+      fill: white;
+      fill-rule: evenodd;
+      stroke-linejoin: round;
+      stroke-miterlimit: 1.41421; }
+    .header .nav .arrow-icon.left {
+      -moz-transform: scaleX(-1);
+      -o-transform: scaleX(-1);
+      -webkit-transform: scaleX(-1);
+      transform: scaleX(-1);
+      opacity: 0.7;
+      padding-left: 12px; }

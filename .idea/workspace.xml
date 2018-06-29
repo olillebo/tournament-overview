@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="edc856f7-9d59-4359-918e-6eee26876c21" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.scss" afterPath="$PROJECT_DIR$/src/App.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/events/event-list.js" afterPath="$PROJECT_DIR$/src/events/event-list.js" />
@@ -25,9 +27,11 @@
       <file leaf-file-name="event-list.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/events/event-list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="361" column="33" lean-forward="false" selection-start-line="361" selection-start-column="33" selection-end-line="361" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="26085">
+              <caret line="3682" column="62" lean-forward="true" selection-start-line="3682" selection-start-column="62" selection-end-line="3682" selection-end-column="62" />
+              <folding>
+                <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,7 +62,7 @@
             <state relative-caret-position="15">
               <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
               <folding>
-                <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+                <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -146,10 +150,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1765" />
-    <option name="y" value="-206" />
-    <option name="width" value="2127" />
-    <option name="height" value="1026" />
+    <option name="x" value="2170" />
+    <option name="y" value="256" />
+    <option name="width" value="1522" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,8 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,22 +271,38 @@
       <workItem from="1528891027987" duration="1778000" />
       <workItem from="1528892838881" duration="1037000" />
       <workItem from="1528894738972" duration="699000" />
+      <workItem from="1529322290797" duration="756000" />
+      <workItem from="1529326308134" duration="1719000" />
+      <workItem from="1529330264471" duration="1595000" />
+      <workItem from="1529332137353" duration="1565000" />
+      <workItem from="1529334273392" duration="1858000" />
+      <workItem from="1529482088115" duration="570000" />
+      <workItem from="1530088310043" duration="588000" />
+      <workItem from="1530090489212" duration="584000" />
+      <workItem from="1530092417809" duration="521000" />
+      <workItem from="1530102877663" duration="471000" />
+      <workItem from="1530104686407" duration="549000" />
+      <workItem from="1530106495231" duration="565000" />
+      <workItem from="1530111262833" duration="440000" />
+      <workItem from="1530183647029" duration="577000" />
+      <workItem from="1530185651041" duration="297000" />
+      <workItem from="1530261312866" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28599000" />
+    <option name="totallyTimeSpent" value="42713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1765" y="-206" width="2127" height="1026" extended-state="0" />
+    <frame x="2170" y="256" width="1522" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13675214" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13842663" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -332,7 +352,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28695">
           <caret line="1913" column="91" lean-forward="false" selection-start-line="1913" selection-start-column="26" selection-end-line="1913" selection-end-column="91" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -359,7 +381,7 @@
         <state relative-caret-position="255">
           <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -378,7 +400,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4695">
           <caret line="313" column="5" lean-forward="false" selection-start-line="313" selection-start-column="5" selection-end-line="313" selection-end-column="5" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -405,7 +429,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -416,7 +440,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="1696" column="9" lean-forward="false" selection-start-line="1696" selection-start-column="9" selection-end-line="1696" selection-end-column="9" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -443,7 +469,7 @@
         <state relative-caret-position="225">
           <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -454,7 +480,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1455">
           <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,7 +509,7 @@
         <state relative-caret-position="225">
           <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -492,7 +520,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -519,7 +549,7 @@
         <state relative-caret-position="225">
           <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -530,7 +560,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -550,7 +582,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,7 +602,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -605,7 +641,7 @@
         <state relative-caret-position="15">
           <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding>
-            <marker date="1528879528000" expanded="true" signature="350:875" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
+            <marker date="1529327526000" expanded="true" signature="399:924" ph="{&quot;build-css&quot;: &quot;node-sass-chokidar src/ -o src/&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -635,9 +671,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/events/event-list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="361" column="33" lean-forward="false" selection-start-line="361" selection-start-column="33" selection-end-line="361" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="26085">
+          <caret line="3682" column="62" lean-forward="true" selection-start-line="3682" selection-start-column="62" selection-end-line="3682" selection-end-column="62" />
+          <folding>
+            <marker date="1530186992000" expanded="false" signature="44587:99274" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

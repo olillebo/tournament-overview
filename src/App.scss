@@ -83,10 +83,22 @@ body {
             margin-top: 2px;
             zoom: 1.8;
             position: relative;
-            &.finished { // for showing results
+
+            .score {
+              display: none;
+              font-weight: bolder;
+              font-size: 8px;
+              top: 0;
+              z-index: 2;
+              justify-content: center;
+              width: 100%;
+              position: absolute;
+            }
+
+            &.show { // for showing results
               &:after {
-                content: "1";
-                z-index: 10;
+                content: "";
+                z-index: 1;
                 display: block;
                 position: absolute;
                 height: 100%;
@@ -95,6 +107,14 @@ body {
                 right: 0;
                 background: rgba(255, 255, 255, 0.9);
               }
+
+              .score {
+                display: block;
+              }
+            }
+
+            &.no-flag {
+              background-color: lightgrey;
             }
           }
         }

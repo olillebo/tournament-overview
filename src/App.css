@@ -61,9 +61,18 @@ body {
             margin-top: 2px;
             zoom: 1.8;
             position: relative; }
-            #wrapper #events .element #event .team .flag-icon.finished:after {
-              content: "1";
-              z-index: 10;
+            #wrapper #events .element #event .team .flag-icon .score {
+              display: none;
+              font-weight: bolder;
+              font-size: 8px;
+              top: 0;
+              z-index: 2;
+              justify-content: center;
+              width: 100%;
+              position: absolute; }
+            #wrapper #events .element #event .team .flag-icon.show:after {
+              content: "";
+              z-index: 1;
               display: block;
               position: absolute;
               height: 100%;
@@ -71,6 +80,10 @@ body {
               left: 0;
               right: 0;
               background: rgba(255, 255, 255, 0.9); }
+            #wrapper #events .element #event .team .flag-icon.show .score {
+              display: block; }
+            #wrapper #events .element #event .team .flag-icon.no-flag {
+              background-color: lightgrey; }
   #wrapper.toggled #events {
     height: 300px; }
     #wrapper.toggled #events .element {
